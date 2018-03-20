@@ -1,0 +1,8 @@
+/Users/leo/Projects/godot-fsharp-boilerplate/FSharpGame/bin/Debug/net45/FSharpGame.dll
+/Users/leo/Projects/godot-fsharp-boilerplate/FSharpGame/bin/Debug/net45/FSharpGame.pdb
+/Users/leo/Projects/godot-fsharp-boilerplate/FSharpGame/bin/Debug/net45/FSharp.Core.dll
+/Users/leo/Projects/godot-fsharp-boilerplate/FSharpGame/bin/Debug/net45/System.ValueTuple.dll
+/Users/leo/Projects/godot-fsharp-boilerplate/FSharpGame/obj/Debug/net45/FSharpGame.fsprojResolveAssemblyReference.cache
+/Users/leo/Projects/godot-fsharp-boilerplate/FSharpGame/obj/Debug/net45/FSharpGame.fsproj.CoreCompileInputs.cache
+/Users/leo/Projects/godot-fsharp-boilerplate/FSharpGame/obj/Debug/net45/FSharpGame.dll
+/Users/leo/Projects/godot-fsharp-boilerplate/FSharpGame/obj/Debug/net45/FSharpGame.pdb
